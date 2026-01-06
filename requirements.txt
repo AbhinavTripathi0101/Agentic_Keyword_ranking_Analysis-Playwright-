@@ -1,0 +1,10 @@
+playwright
+pandas
+openpyxl
+langgraph
+langchain-groq
+playwright-stealth
+langchain
+langchain-core
+python-dotenv
+xlsxwriter
